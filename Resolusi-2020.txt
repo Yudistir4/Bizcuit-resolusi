@@ -1,0 +1,7 @@
+My Resolution
+- JS
+- API
+- React
+- Flutter
+- laravel
+- CI
