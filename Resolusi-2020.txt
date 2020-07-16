@@ -5,3 +5,4 @@ My Resolution
 - Flutter
 - laravel
 - CI
+- Ngobar
